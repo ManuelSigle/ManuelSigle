@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Manuel
-- 🌱 I’m currently learning Java and Phyton
+- 🌱 I’m currently learning JavaScript and Phyton
